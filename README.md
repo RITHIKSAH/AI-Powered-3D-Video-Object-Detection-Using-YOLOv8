@@ -23,6 +23,6 @@ conda activate yolo_env
 pip install ultralytics opencv-python torch torchvision tqdm matplotlib
 
 
-Jupyter notebook code file can be found in repository with trained YOLOv8 data.
+Jupyter notebook code file can be found in repository.
 
 
